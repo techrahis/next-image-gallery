@@ -1,11 +1,11 @@
 # Next Image Gallery
 
 ## Live View
-Check out the live version of the project [https://t.me/SpiritedArtBot](https://t.me/SpiritedArtBot).
+Check out the live version of the project [https://nextimagegallery.netlify.app](https://nextimagegallery.netlify.app).
 
 ## Screenshots
 
-![signal-2025-04-13-090518_002](https://github.com/user-attachments/assets/533c6b5f-bfcd-428d-8aa0-34cb4c069897)
-![Screenshot 2025-04-13 090743](https://github.com/user-attachments/assets/743a0bf4-8855-46b0-9893-dc2c8c276533)
-![Screenshot 2025-04-13 090857](https://github.com/user-attachments/assets/dc2780dd-3dd3-467c-a74f-bdfd83d56db1)
-![Screenshot 2025-04-13 090959](https://github.com/user-attachments/assets/6fd4f09e-d665-4715-ad79-b506bfe5934d)
+![nextimagegallery netlify app_static (1)](https://github.com/user-attachments/assets/c680b3e9-26bc-4113-aeee-c6e4260ea430)
+![nextimagegallery netlify app_static](https://github.com/user-attachments/assets/5f8abb7d-3d41-475b-bf29-d3ab0fc743e8)
+![fd](https://github.com/user-attachments/assets/4e978f1e-bb06-4bf7-a036-e9fe001951ba)
+![nextimagegallery netlify app_search](https://github.com/user-attachments/assets/897012a4-3286-4288-b883-0b0550977d42)
